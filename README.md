@@ -12,3 +12,5 @@
 
 | <a href="https://github.com/Boris-code"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Boris-code&langs_count=8&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide=jupyter%20notebook" alt="Boris-code" /></a> | <a href="https://github.com/Boris-code"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Boris-code&show_icons=true&theme=gruvbox&locale=en" alt="Boris-code" /></a> |
 | ------------- | ------------- |
+
+![](https://raw.githubusercontent.com/Boris-code/Boris-code/output/github-contribution-grid-snake.svg) 
